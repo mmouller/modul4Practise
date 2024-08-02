@@ -1,0 +1,7 @@
+C:\Users\cnfcn\source\repos\modul4Practise\bin\Debug\modul4Practise.exe.config
+C:\Users\cnfcn\source\repos\modul4Practise\bin\Debug\modul4Practise.exe
+C:\Users\cnfcn\source\repos\modul4Practise\bin\Debug\modul4Practise.pdb
+C:\Users\cnfcn\source\repos\modul4Practise\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\cnfcn\source\repos\modul4Practise\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\cnfcn\source\repos\modul4Practise\obj\Debug\modul4Practise.exe
+C:\Users\cnfcn\source\repos\modul4Practise\obj\Debug\modul4Practise.pdb
